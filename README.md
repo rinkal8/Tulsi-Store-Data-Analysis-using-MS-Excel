@@ -5,8 +5,8 @@
 The Tulsi Store wants to create an annual sales report for 2022. So that, the owner of the Tulsi store can understand their customers and grow more sales in 2023.
 
 ## **Dataset used**
-- <a href="https://github.com/rinkal8/Tulsi-Store-Data-Analysis/blob/main/Tulsi%20Store%20Data.xlsx">Tulsi Store Data</a>
-
+- <a href="https://github.com/rinkal8/Tulsi-Store-Data-Analysis-using-MS-Excel/blob/main/Tulsi%20Store%20Data%20Analysis.xlsx">Tulsi Store Data</a>
+            
 ## **Questions (KPIs)**
 
 - Compare the sales and orders using single chart.
@@ -25,13 +25,13 @@ The Tulsi Store wants to create an annual sales report for 2022. So that, the ow
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make <a href="https://github.com/rinkal8/tulsi-Store-Data-Analysis/blob/main/tulsi%20Store%20Dashboard.png">dashboard interactive</a> and dynamic.
+- Merge all pivot tables into one dashboard and apply slicer to make <a href="https://github.com/rinkal8/Tulsi-Store-Data-Analysis-using-MS-Excel/blob/main/Tulsi%20Store%20Report.png">dashboard interactive</a> and dynamic.
 
 
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/rinkal8/tulsi-Store-Data-Analysis/blob/main/tulsi%20Store%20Dashboard.png)
+![Alt text of the image](https://github.com/rinkal8/Tulsi-Store-Data-Analysis-using-MS-Excel/blob/main/Tulsi%20Store%20Report.png)
 
 
 
